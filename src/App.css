@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.view-wrapper {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 767px) {
+  .view-wrapper {
+    padding: 0 20px;
+  }
+}
